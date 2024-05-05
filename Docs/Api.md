@@ -9,7 +9,7 @@
             - [Login Request](#login-request)
             - [Login Response](#login-response)
 
-## Auth
+## Authentication
 
 ### Register
 ```js

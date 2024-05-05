@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "WAWMouSorMtsEQDr+nEfV+rY28cMfaBOU6+ZNjbl/qQuxbOXtRU1o8bGht8Pp7dpNOj9h22eozAJAYzEGrULeQ==",
+  "dgSpecHash": "9trdmAF5JsF6lYsIAuSzC+Kn1+bEML1pcZCJTrdVXlM9XgsOdYsj+lVF2USML9ZxyKuLszBOYWWQcUDRSpgJsQ==",
   "success": true,
   "projectFilePath": "D:\\BuberApi\\BuberApi.Infrastructure\\BuberApi.Infrastructure.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Louis\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

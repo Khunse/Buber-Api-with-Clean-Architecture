@@ -13,3 +13,4 @@ D:\BuberApi\BuberApi.Application\obj\Debug\net8.0\BuberApi.Application.dll
 D:\BuberApi\BuberApi.Application\obj\Debug\net8.0\refint\BuberApi.Application.dll
 D:\BuberApi\BuberApi.Application\obj\Debug\net8.0\BuberApi.Application.pdb
 D:\BuberApi\BuberApi.Application\obj\Debug\net8.0\ref\BuberApi.Application.dll
+D:\BuberApi\BuberApi.Application\obj\Debug\net8.0\BuberApi.Application.sourcelink.json

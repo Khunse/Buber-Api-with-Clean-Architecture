@@ -9,12 +9,17 @@ namespace BuberApi.Application.services.Authentication
                 "FName",
                 "LName",
                 "Email",
-                "Token");
+                "Token"
+                );
         }
 
         public AuthenticationResult Register(string firstName, string lastName, string email, string password)
         {
-                return new AuthenticationResult(Guid.NewGuid(),firstName,lastName,email,"Token");
+                return new AuthenticationResult(Guid.NewGuid(),
+                    firstName,
+                    lastName,
+                    email,
+                    "Token");
         }
     }
 }

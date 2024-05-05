@@ -39,3 +39,5 @@ D:\BuberApi\BuberApi.api\bin\Debug\net8.0\BuberApi.Application.pdb
 D:\BuberApi\BuberApi.api\bin\Debug\net8.0\BuberApi.Contracts.pdb
 D:\BuberApi\BuberApi.api\bin\Debug\net8.0\BuberApi.Infrastructure.pdb
 D:\BuberApi\BuberApi.api\bin\Debug\net8.0\BuberApi.Domain.pdb
+D:\BuberApi\BuberApi.api\obj\Debug\net8.0\BuberApi.api.sourcelink.json
+D:\BuberApi\BuberApi.api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll

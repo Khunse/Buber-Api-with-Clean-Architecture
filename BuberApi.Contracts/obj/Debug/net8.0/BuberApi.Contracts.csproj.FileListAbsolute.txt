@@ -9,3 +9,4 @@ D:\BuberApi\BuberApi.Contracts\obj\Debug\net8.0\BuberApi.Contracts.dll
 D:\BuberApi\BuberApi.Contracts\obj\Debug\net8.0\refint\BuberApi.Contracts.dll
 D:\BuberApi\BuberApi.Contracts\obj\Debug\net8.0\BuberApi.Contracts.pdb
 D:\BuberApi\BuberApi.Contracts\obj\Debug\net8.0\ref\BuberApi.Contracts.dll
+D:\BuberApi\BuberApi.Contracts\obj\Debug\net8.0\BuberApi.Contracts.sourcelink.json

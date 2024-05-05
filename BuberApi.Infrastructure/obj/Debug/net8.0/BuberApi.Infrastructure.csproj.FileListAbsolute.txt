@@ -15,3 +15,4 @@ D:\BuberApi\BuberApi.Infrastructure\bin\Debug\net8.0\BuberApi.Application.pdb
 D:\BuberApi\BuberApi.Infrastructure\bin\Debug\net8.0\BuberApi.Domain.pdb
 D:\BuberApi\BuberApi.Infrastructure\obj\Debug\net8.0\BuberApi.Infrastructure.csproj.AssemblyReference.cache
 D:\BuberApi\BuberApi.Infrastructure\obj\Debug\net8.0\BuberApi.Infrastructure.csproj.CopyComplete
+D:\BuberApi\BuberApi.Infrastructure\obj\Debug\net8.0\BuberApi.Infrastructure.sourcelink.json

@@ -9,3 +9,4 @@ D:\BuberApi\BuberApi.Domain\obj\Debug\net8.0\BuberApi.Domain.dll
 D:\BuberApi\BuberApi.Domain\obj\Debug\net8.0\refint\BuberApi.Domain.dll
 D:\BuberApi\BuberApi.Domain\obj\Debug\net8.0\BuberApi.Domain.pdb
 D:\BuberApi\BuberApi.Domain\obj\Debug\net8.0\ref\BuberApi.Domain.dll
+D:\BuberApi\BuberApi.Domain\obj\Debug\net8.0\BuberApi.Domain.sourcelink.json

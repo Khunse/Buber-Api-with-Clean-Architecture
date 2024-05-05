@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "ctoDlxvdnDF7JYMQUZxNkrWGtInaH3+qu+YW69awRofHU8pOZyBzHHWNAfg3hZnpgM/0QJg3g4ZmThiOuQl2fg==",
+  "dgSpecHash": "Ng6fA8YsyjHEQHniqFGQJIkmv1Y8NgJpwmmivGUJ7XmmGz2xLkhXZagx2pLAPVE/d3qPWVcZdiHVRWAro9ifHw==",
   "success": true,
   "projectFilePath": "D:\\BuberApi\\BuberApi.api\\BuberApi.api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Louis\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.1\\microsoft.aspnetcore.openapi.8.0.1.nupkg.sha512",
     "C:\\Users\\Louis\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Louis\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
     "C:\\Users\\Louis\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
     "C:\\Users\\Louis\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\Louis\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
