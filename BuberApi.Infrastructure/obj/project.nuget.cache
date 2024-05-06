@@ -1,10 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "9trdmAF5JsF6lYsIAuSzC+Kn1+bEML1pcZCJTrdVXlM9XgsOdYsj+lVF2USML9ZxyKuLszBOYWWQcUDRSpgJsQ==",
+  "dgSpecHash": "vnn8n6AX7bUspxYtB3L6mlbgYMTXxnXbHjQSiBe8KGDai2lKarYi9R6R+M5/CLUohrEM9QK5NU2748MP1KuEIQ==",
   "success": true,
   "projectFilePath": "D:\\BuberApi\\BuberApi.Infrastructure\\BuberApi.Infrastructure.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Louis\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+    "C:\\Users\\Louis\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\Louis\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.5.1\\microsoft.identitymodel.abstractions.7.5.1.nupkg.sha512",
+    "C:\\Users\\Louis\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.5.1\\microsoft.identitymodel.jsonwebtokens.7.5.1.nupkg.sha512",
+    "C:\\Users\\Louis\\.nuget\\packages\\microsoft.identitymodel.logging\\7.5.1\\microsoft.identitymodel.logging.7.5.1.nupkg.sha512",
+    "C:\\Users\\Louis\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.5.1\\microsoft.identitymodel.tokens.7.5.1.nupkg.sha512",
+    "C:\\Users\\Louis\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.5.1\\system.identitymodel.tokens.jwt.7.5.1.nupkg.sha512"
   ],
   "logs": []
 }

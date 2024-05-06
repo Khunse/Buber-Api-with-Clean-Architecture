@@ -1,7 +1,15 @@
+using BuberApi.Application.Common.Interfaces.Authentication;
+
 namespace BuberApi.Application.services.Authentication
 {
     public class AuthenticationService : IAuthenticationService
     {
+        private readonly IJwtGenerator _jwtGenerator;
+        public AuthenticationService(IJwtGenerator jwtGenerator)
+        {
+            _jwtGenerator = jwtGenerator;
+        }
+
         public AuthenticationResult Login(string email, string password)
         {
             return new AuthenticationResult(
@@ -19,7 +27,8 @@ namespace BuberApi.Application.services.Authentication
                     firstName,
                     lastName,
                     email,
-                    "Token");
+                    _jwtGenerator.GenerateJwt(Guid.NewGuid().ToString(),firstName,lastName)
+                    );
         }
     }
 }

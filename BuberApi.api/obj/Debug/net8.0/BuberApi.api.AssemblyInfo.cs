@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BuberApi.api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db28f9911e08f3b3cc107422f45768ce9360ebb0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4d3aad50b863c582500551539d681c6be2fb012")]
 [assembly: System.Reflection.AssemblyProductAttribute("BuberApi.api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BuberApi.api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
