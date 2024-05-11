@@ -1,4 +1,5 @@
 using BuberApi.Application.services.Authentication;
+using BuberApi.Application.services.Persistence;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace BuberApi.Application

@@ -1,6 +1,8 @@
 using BuberApi.Application.Common.Interfaces.Authentication;
 using BuberApi.Application.Common.service;
+using BuberApi.Application.services.Persistence;
 using BuberApi.Infrastructure.Authentication;
+using BuberApi.Infrastructure.Persistence;
 using BuberApi.Infrastructure.Service;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -14,6 +16,7 @@ namespace BuberApi.Infrastructure
         ConfigurationManager configuration)
         {
             services.Configure<JwtSetting>(configuration.GetSection(JwtSetting.JwtSettingName));
+            services.AddScoped<IUserRepository,UserRepository>();           // scoped - create new for every request
             services.AddScoped<IJwtGenerator, JwtGenerator>();
             services.AddScoped<IDateTimeProvider,DateTimeProvider>();
             return services;
