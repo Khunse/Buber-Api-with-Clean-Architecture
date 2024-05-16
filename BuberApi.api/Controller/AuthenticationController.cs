@@ -1,5 +1,7 @@
 using BuberApi.Application.services.Authentication;
+using BuberApi.Application.services.Persistence;
 using BuberApi.Contracts.Authentication;
+using BuberApi.Domain.Entities;
 using Microsoft.AspNetCore.Mvc;
 
 [ApiController]
